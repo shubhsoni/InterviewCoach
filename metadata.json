@@ -1,0 +1,5 @@
+{
+  "name": "InterviewCoach AI",
+  "description": "An AI-powered interview assistant that analyzes your interview recordings and job descriptions to provide actionable feedback on verbal communication, body language, and content relevance.",
+  "requestFramePermissions": []
+}
